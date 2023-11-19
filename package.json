@@ -5,8 +5,10 @@
   "description": "Личный проект «Кэт энерджи» от HTML Academy",
   "devDependencies": {
     "@htmlacademy/editorconfig-cli": "1.x",
-    "autoprefixer": "9.5.x",
-    "browser-sync": "^2.29.3",
+
+    "autoprefixer": "10.4.x",
+    "browser-sync": "^2.27.10",
+
     "del": "^5.1.0",
     "gulp": "4.0.x",
     "gulp-csso": "^4.0.1",
@@ -14,7 +16,7 @@
     "gulp-imagemin": "^7.1.0",
     "gulp-less": "4.0.x",
     "gulp-plumber": "1.2.x",
-    "gulp-postcss": "8.0.x",
+    "gulp-postcss": "9.0.x",
     "gulp-rename": "^2.0.0",
     "gulp-sourcemaps": "2.6.x",
     "gulp-svgstore": "^7.0.1",
